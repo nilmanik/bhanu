@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='E:\framework28-04-2018\bhanu\src\main\java\automationPractice\bhanu\screenShot\passedTest\VerifyShareLinkIsWorkingInProductDetailsPage_04_06_2018_12_57_50.png'><img src='E:\framework28-04-2018\bhanu\src\main\java\automationPractice\bhanu\screenShot\passedTest\VerifyShareLinkIsWorkingInProductDetailsPage_04_06_2018_12_57_50.png' height='100%' width='100%'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="162862" started-at="2018-06-03T19:26:10Z" finished-at="2018-06-03T19:28:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="162862" started-at="2018-06-03T19:26:10Z" finished-at="2018-06-03T19:28:53Z">
+      <class name="automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu">
+        <test-method status="PASS" signature="setup()[pri:0, instance:automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu@6e06451e]" name="setup" is-config="true" duration-ms="15432" started-at="2018-06-03T19:26:10Z" finished-at="2018-06-03T19:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu@6e06451e]" name="login" is-config="true" duration-ms="67400" started-at="2018-06-03T19:26:26Z" finished-at="2018-06-03T19:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="VerifyShareLinkIsWorkingInProductDetailsPage()[pri:0, instance:automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu@6e06451e]" name="VerifyShareLinkIsWorkingInProductDetailsPage" duration-ms="16689" started-at="2018-06-03T19:27:33Z" finished-at="2018-06-03T19:27:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='E:\framework28-04-2018\bhanu\src\main\java\automationPractice\bhanu\screenShot\passedTest\VerifyShareLinkIsWorkingInProductDetailsPage_04_06_2018_12_57_50.png'><img src='E:\framework28-04-2018\bhanu\src\main\java\automationPractice\bhanu\screenShot\passedTest\VerifyShareLinkIsWorkingInProductDetailsPage_04_06_2018_12_57_50.png' height='100%' width='100%'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyShareLinkIsWorkingInProductDetailsPage -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu@6e06451e]" name="logout" is-config="true" duration-ms="62699" started-at="2018-06-03T19:27:50Z" finished-at="2018-06-03T19:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu@6e06451e]" name="endTest" is-config="true" duration-ms="57" started-at="2018-06-03T19:28:53Z" finished-at="2018-06-03T19:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- automationPractice.bhanu.homePage.TC_004selectItemBasedOnNavigationMenu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

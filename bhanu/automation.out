@@ -1,0 +1,54 @@
+2018-06-04 00:52:02 INFO  HomePage:52 - login link of the home page is clicked successfully :-[[ChromeDriver: chrome on XP (d3a98d062b2a5fbb01c00a8833c66f3d)] -> xpath: //a[@class='login']]
+2018-06-04 00:52:02 INFO  HomePage:54 - emailid enter is  :-
+2018-06-04 00:52:03 INFO  HomePage:56 - password enter is   :-
+2018-06-04 00:53:05 INFO  HomePage:58 - login botton  clicked successfully :-Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']//span'
+2018-06-04 00:53:09 INFO  HomePage:78 - Women:- cateogary selected successfully
+2018-06-04 00:53:10 INFO  HomePage:71 - + navigation button clicked of ::Tops:: section
+2018-06-04 00:53:10 INFO  HomePage:55 - navigate to the tops navigation menu sucrssfully
+2018-06-04 00:53:10 INFO  HomePage:101 - wait for T-shirts-: element
+2018-06-04 00:53:12 INFO  HomePage:87 - T-shirts:- product select of the :- Tops -:cateogary
+2018-06-04 00:53:12 INFO  HomePage:57 - tshirt selected sucessfully
+2018-06-04 00:53:16 INFO  ProductPage:40 - select the single product and product name is :-Faded Short Sleeve T-shirts
+2018-06-04 00:53:16 INFO  HomePage:60 - product details of tshirt shown sucessfully
+2018-06-04 00:53:16 INFO  ProductDetailsPage:46 - socialsharing_facebook_click(); ... link is enable....true
+2018-06-04 00:53:16 INFO  ProductDetailsPage:48 - socialsharing_facebook_click();: link has been selected crossponding page is opened in the new window
+2018-06-04 00:53:16 INFO  HomePage:64 - click on facebook sucessfully
+2018-06-04 00:53:16 INFO  HomePage:111 - number of window opened is :-2
+2018-06-04 00:53:16 INFO  HomePage:66 - getting all id of the opening window sucessfully 
+2018-06-04 00:53:16 INFO  HomePage:68 - driver control move to the 2nd window sucessfully
+2018-06-04 00:53:20 INFO  ProductDetailsPage:55 - facebook page is displayed and fb messsage is :-Log into your Facebook account to share.
+Email address or phone number:
+Password:
+Forgotten account?
+Create New Account
+2018-06-04 00:53:20 INFO  HomePage:70 - msg verification done
+2018-06-04 00:53:20 INFO  HomePage:72 - control move back to parent or 1st window
+2018-06-04 00:54:24 INFO  HomePage:65 - loout successfully and the object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2018-06-04 00:54:24 INFO  HomePage:94 - driver closed
+2018-06-04 00:56:30 INFO  HomePage:52 - login link of the home page is clicked successfully :-[[ChromeDriver: chrome on XP (269ba9567a3ef893677aed482ff465d4)] -> xpath: //a[@class='login']]
+2018-06-04 00:56:30 INFO  HomePage:54 - emailid enter is  :-nilmanikmr@gmail.com
+2018-06-04 00:56:30 INFO  HomePage:56 - password enter is   :-286143
+2018-06-04 00:57:33 INFO  HomePage:58 - login botton  clicked successfully :-Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']//span'
+2018-06-04 00:57:38 INFO  HomePage:78 - Women:- cateogary selected successfully
+2018-06-04 00:57:38 INFO  HomePage:71 - + navigation button clicked of ::Tops:: section
+2018-06-04 00:57:38 INFO  HomePage:55 - navigate to the tops navigation menu sucrssfully
+2018-06-04 00:57:38 INFO  HomePage:101 - wait for T-shirts-: element
+2018-06-04 00:57:40 INFO  HomePage:87 - T-shirts:- product select of the :- Tops -:cateogary
+2018-06-04 00:57:40 INFO  HomePage:57 - tshirt selected sucessfully
+2018-06-04 00:57:45 INFO  ProductPage:40 - select the single product and product name is :-Faded Short Sleeve T-shirts
+2018-06-04 00:57:45 INFO  HomePage:60 - product details of tshirt shown sucessfully
+2018-06-04 00:57:45 INFO  ProductDetailsPage:46 - socialsharing_facebook_click(); ... link is enable....true
+2018-06-04 00:57:45 INFO  ProductDetailsPage:48 - socialsharing_facebook_click();: link has been selected crossponding page is opened in the new window
+2018-06-04 00:57:45 INFO  HomePage:64 - click on facebook sucessfully
+2018-06-04 00:57:45 INFO  HomePage:111 - number of window opened is :-2
+2018-06-04 00:57:45 INFO  HomePage:66 - getting all id of the opening window sucessfully 
+2018-06-04 00:57:45 INFO  HomePage:68 - driver control move to the 2nd window sucessfully
+2018-06-04 00:57:50 INFO  ProductDetailsPage:55 - facebook page is displayed and fb messsage is :-Log into your Facebook account to share.
+Email address or phone number:
+Password:
+Forgotten account?
+Create New Account
+2018-06-04 00:57:50 INFO  HomePage:70 - msg verification done
+2018-06-04 00:57:50 INFO  HomePage:72 - control move back to parent or 1st window
+2018-06-04 00:58:53 INFO  HomePage:65 - loout successfully and the object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='logout']'
+2018-06-04 00:58:53 INFO  HomePage:94 - driver closed
